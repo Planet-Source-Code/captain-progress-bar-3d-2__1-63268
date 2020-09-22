@@ -1,0 +1,10 @@
+For Visual Basic
+
+1) Click on Project Menu
+2) Click Components
+3) Find ProgressBar3D and check on the box
+4) Click Apply
+
+
+Note:
+If you can't find ProgressBar3D in step 3 then click on Browse, move to this directory and open the ProgressBar3D.ocx. Click Apply.
